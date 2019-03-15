@@ -1,3 +1,4 @@
+urllib3
 pip==18.1
 pyOpenSSL
 xmltodict
